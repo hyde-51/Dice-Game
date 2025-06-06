@@ -6,7 +6,7 @@
 .dice{
     text-align: center;
     display: inline-block; 
-     margin: 0 110px;
+    margin: 0 110px;
 }
 body{
     background-color: #042f4b;
@@ -39,7 +39,6 @@ h1{
     background-color: black;
     font-size: 20px;
     cursor: pointer;
-    /* box-shadow: ; */
 }
 .btn:hover{
     background: #879db7;
